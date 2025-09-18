@@ -2,6 +2,7 @@
 #include <cstdlib>
 #include <string>
 
+// david je mega gay
 int main()
 {
     std::string zkratky[] = {
