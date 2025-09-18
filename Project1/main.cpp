@@ -38,7 +38,7 @@ int main()
         "Sodik", "Horčik", "Hlinik", "Kremik", "Fosfor", "Sirа", "Chlor", "Argon",
         // 4. perioda
         "Draslik", "Vapenik",
-        "Skandium", "Titan", "Vanad", "Chrom", "Mangan", "Zelezo", "Kobalt", "Nikл", "Med", "Zinek",
+        "Skandium", "Titan", "Vanad", "Chrom", "Mangan", "Zelezo", "Kobalt", "Nikl", "Med", "Zinek",
         "Galium", "Germanium", "Arsen", "Selen", "Brom", "Krypton",
         // 5. perioda
         "Rubidium", "Stroncium",
